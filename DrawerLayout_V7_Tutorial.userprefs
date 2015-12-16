@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DrawerLayout_V7_Tutorial\DrawerLayout_V7_Tutorial.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DrawerLayout_V7_Tutorial\MainActivity.cs">
+    <Files>
+      <File FileName="DrawerLayout_V7_Tutorial\MainActivity.cs" Line="10" Column="1" />
+      <File FileName="DrawerLayout_V7_Tutorial\MyActionBarDrawerToggle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DrawerLayout__V7__Tutorial AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
